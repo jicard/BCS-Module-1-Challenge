@@ -23,8 +23,4 @@ GitHub Repo link- https://github.com/jicard/BCS-Module-1-Challenge
 Starter code: https://github.com/coding-boot-camp/urban-octo-telegram
 README guide: https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
-## License
-
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
-
 ---
