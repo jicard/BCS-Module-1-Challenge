@@ -16,7 +16,7 @@ GitHub Repo link- https://github.com/jicard/BCS-Module-1-Challenge
 
 ## Usage
 
-![Full page screenshot](assets/images/full-page-screenshot.png)
+![Full page screenshot](./docs/assets/images/full-page-screenshot.png)
 
 ## Credits
 
